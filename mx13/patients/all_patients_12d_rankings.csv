@@ -1,0 +1,7 @@
+category,patient_name,value
+best_mean_improve_rmse,child#007,71.5950177409397
+worst_mean_improve_rmse,child#002,-1.7886374231034239
+best_mean_rmse_virtual,child#004,2.8623298750473904
+worst_mean_rmse_virtual,child#002,23.529015871194694
+best_stability,child#007,1.0
+worst_stability,child#002,0.5384615384615384

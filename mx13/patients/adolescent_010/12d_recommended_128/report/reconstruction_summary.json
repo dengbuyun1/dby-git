@@ -1,0 +1,13 @@
+{
+  "n_cases": 26,
+  "mean_rmse_real_vs_virtual": 8.501270812291365,
+  "mean_rmse_real_vs_nominal": 37.023921709794266,
+  "mean_mae_real_vs_virtual": 5.691845779235546,
+  "mean_mae_real_vs_nominal": 23.717935452094444,
+  "mean_mard_real_vs_virtual_pct": 2.0522543032152147,
+  "mean_mard_real_vs_nominal_pct": 8.038870248800286,
+  "mean_improve_rmse_pct": 64.9072527028951,
+  "virtual_better_ratio": 0.9230769230769231,
+  "best_improve_rmse_pct": 95.81017383868345,
+  "worst_improve_rmse_pct": -123.23675641813794
+}

@@ -1,0 +1,3 @@
+data_generation_seconds=395
+training_seconds=34
+evaluation_seconds=255

@@ -1,0 +1,11 @@
+# WebSocket服务器
+websockets>=12.0
+
+# 异步MySQL数据库驱动
+aiomysql>=0.2.0
+
+# MySQL客户端库(aiomysql的依赖)
+PyMySQL>=1.1.0
+
+# Bluetooth client
+pybluez>=0.23

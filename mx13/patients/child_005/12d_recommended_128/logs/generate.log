@@ -1,0 +1,2 @@
+Saved train_data.pt/test_data.pt/meta.pt to /mnt/f/1_YX/1learn/mx13/patients/child_005/12d_recommended_128/data
+train_x shape: (102, 288), test_x shape: (26, 288)

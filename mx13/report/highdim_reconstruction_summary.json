@@ -1,0 +1,10 @@
+{
+  "n_cases": 26,
+  "mean_rmse_real_vs_virtual": 25.550780571424045,
+  "mean_rmse_real_vs_nominal": 33.673447590607864,
+  "mean_mae_real_vs_virtual": 24.498182461811947,
+  "mean_mae_real_vs_nominal": 32.447646076862625,
+  "mean_mard_real_vs_virtual_pct": 16.233129258482503,
+  "mean_mard_real_vs_nominal_pct": 19.46312326651353,
+  "virtual_better_ratio": 0.6153846153846154
+}
