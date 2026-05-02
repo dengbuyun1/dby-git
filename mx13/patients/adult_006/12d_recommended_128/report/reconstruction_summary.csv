@@ -1,2 +1,0 @@
-n_cases,mean_rmse_real_vs_virtual,mean_rmse_real_vs_nominal,mean_mae_real_vs_virtual,mean_mae_real_vs_nominal,mean_mard_real_vs_virtual_pct,mean_mard_real_vs_nominal_pct,mean_improve_rmse_pct,virtual_better_ratio,best_improve_rmse_pct,worst_improve_rmse_pct
-26,16.39678115111131,25.722409376731285,12.784142310802753,20.617984854258022,4.088244431365568,6.570276961876796,38.55616919348842,1.0,75.94730464535955,13.068438582204244
